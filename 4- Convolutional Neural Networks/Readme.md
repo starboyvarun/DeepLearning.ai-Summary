@@ -217,7 +217,7 @@ Here is the course summary as given on the course [link](https://www.coursera.or
   f[l] = filter size
   p[l] = padding	# Default is zero
   s[l] = stride
-  nc[l] = number of filters
+  nc[l] = number of color channels
 
   Input:  n[l-1] x n[l-1] x nc[l-1]	Or	 nH[l-1] x nW[l-1] x nc[l-1]
   Output: n[l] x n[l] x nc[l]	Or	 nH[l] x nW[l] x nc[l]
